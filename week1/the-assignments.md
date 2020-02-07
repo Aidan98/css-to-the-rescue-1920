@@ -20,7 +20,7 @@ You have to add at least one extra context to your site
 
 - [ ] print-stylesheet
 - [ ] prefers-reduced-motion
-- [ ] dark-mode
+- [x] dark-mode
 - [ ] input type (pointer)
 - [ ] <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries">pick a better one</a>
 
