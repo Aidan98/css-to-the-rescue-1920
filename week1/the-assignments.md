@@ -29,12 +29,12 @@ You have to add at least one extra context to your site
 You have to work with _at least_ two of these restrictions.
 
 - [ ] When SVG meets CSS: Shapes / Masks / SVG
-- [ ] Two colours
+- [x] Two colours
 - [ ] Less than 5kb CSS *(not as an excuses for lazyness, hahaha)*
 - [ ] No squares, no rectangles, no circles, no triangles
 - [ ] Design must be visually appealing and it must meet <a href="https://www.w3.org/TR/WCAG20/#guidelines">Level AAA conformance</a> of the WCAG.
 - [ ] Solar powered website
-- [ ] Responsive without media queries
+- [x] Responsive without media queries
 - [ ] Design responds to weather/time
 - [ ] Design responds to connectivity
 - [ ] Design responds to battery level
