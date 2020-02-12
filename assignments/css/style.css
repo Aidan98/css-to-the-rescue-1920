@@ -1,0 +1,28 @@
+body {
+    background-color: #FFDEA7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    margin-right: 5em;
+}
+
+article {
+    width: 12em;
+}
+
+/* @media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000000;
+    }
+
+    h1, h2, h3, p {
+        color: #ffffff;
+    }
+
+} */
